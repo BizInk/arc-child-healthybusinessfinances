@@ -11788,3 +11788,7 @@ body#tinymce {
     width: 50%;
   }
 }
+
+.page-template-template-html .mainHeader,.page-template-template-html .mainFooter{
+  display:none;
+}
