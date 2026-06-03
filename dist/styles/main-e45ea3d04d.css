@@ -11789,6 +11789,8 @@ body#tinymce {
   }
 }
 
-.page-template-template-html .mainHeader,.page-template-template-html .mainFooter{
+.page-template-template-html .mainHeader,
+.page-template-template-html .mainFooter,
+.page-template-template-html .infobar{
   display:none;
 }

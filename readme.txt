@@ -3,7 +3,7 @@ Contributors: Bizink,Jayden Major
 Tags: Bizink, Arc, LUCA 1
 Requires at least: 5.6
 Tested up to: 7.0
-Stable tag: 1.0
+Stable tag: 1.0.1
 Requires PHP: 7.4
 
 The Arc - Healthy Business Finances theme from Bizink is a modern, responsive theme for WordPress. Build on the LUCA 1 framework.
@@ -18,6 +18,9 @@ Prerequisites - Must have the LUCA 1 framework installed.
 3. Click the 'Activate' button to use your new theme right away.
 
 == Changelog ==
+
+= 1.0.1 =
+* Hide Infobox on Help Page
 
 = 1.0 =
 * First release
